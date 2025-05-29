@@ -1,7 +1,7 @@
 # Azhan Ahmed – Portfolio Website
 
 Welcome to my academic portfolio!  
-I'm **Azhan Ahmed**, a BSc Biotechnology student at **SRMIST Chennai** with a deep interest in **bioinformatics** and computational biology.
+I'm **Azhan Ahmed**, a BSc Biotechnology student at **SRMIST Chennai** with a deep interest in **Bioinformatics** and computational biology.
 
 This website showcases:
 - 🧬 **Academic Work** – Projects, research assignments, and coursework
